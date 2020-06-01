@@ -1,0 +1,235 @@
+With the #1 Pick in the NFL Street Draft, Josh's team has selected Patrick Mahomes, QB
+With the #2 Pick in the NFL Street Draft, Michael's team has selected Lamar Jackson, QB
+With the #3 Pick in the NFL Street Draft, Josh's team has selected Test Dummdddy, QB
+With the #4 Pick in the NFL Street Draft, Michael's team has selected Test Dummfdsay, QB
+With the #5 Pick in the NFL Street Draft, Josh's team has selected Test Dummdsasy, QB
+With the #6 Pick in the NFL Street Draft, Michael's team has selected Test Dummfdsay, QB
+With the #7 Pick in the NFL Street Draft, Josh's team has selected Test Dumfdsasdfmy, QB
+With the #8 Pick in the NFL Street Draft, Michael's team has selected Test Dummddy, QB
+With the #9 Pick in the NFL Street Draft, Josh's team has selected Test Dummasdfy, QB
+With the #10 Pick in the NFL Street Draft, Michael's team has selected Test Dummfday, QB
+With the #11 Pick in the NFL Street Draft, Josh's team has selected Test Dummsdfay, QB
+With the #12 Pick in the NFL Street Draft, Michael's team has selected Test Dusdmmy, QB
+With the #13 Pick in the NFL Street Draft, Josh's team has selected Test Dumy, QB
+With the #14 Pick in the NFL Street Draft, Michael's team has selected Test Dum, QB
+
+This concludes the NFL Street Draft!
+Thank you for your participation!
+Below are the draft results!
+-------------------------------------------------------
+Josh's Team
+Team Overall: 90.2679 Team RAW: 1217
+------------------------------
+Patrick Mahomes
+Pos: QB Ovr: 76.625 RAW: 77
+------------------------------
+Passing :||||||||||||||||||||
+Speed   :||||||||||||
+Blocking:||
+Agility :|||||||||||||
+Catching:|||||||
+RunPower:||||||
+Carrying:||||||||||
+Tackling:||
+Coverage:||||
+D-Moves :|
+------------------------------
+
+Test Dummdddy
+Pos: QB Ovr: 78.5 RAW: 180
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :|
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dummdsasy
+Pos: QB Ovr: 90.5 RAW: 192
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :|||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dumfdsasdfmy
+Pos: QB Ovr: 97.5 RAW: 191
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dummasdfy
+Pos: QB Ovr: 97.5 RAW: 189
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||
+------------------------------
+
+Test Dummsdfay
+Pos: QB Ovr: 97.5 RAW: 199
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dumy
+Pos: QB Ovr: 93.75 RAW: 189
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Michael's Team
+Team Overall: 92.3036 Team RAW: 1222
+------------------------------
+Lamar Jackson
+Pos: QB Ovr: 77.125 RAW: 93
+------------------------------
+Passing :||||||||||||||||
+Speed   :||||||||||||||||||
+Blocking:||
+Agility :||||||||||||||||||
+Catching:||||||||||
+RunPower:|||||
+Carrying:||||||||||||||
+Tackling:|||
+Coverage:||||||
+D-Moves :|
+------------------------------
+
+Test Dummfdsay
+Pos: QB Ovr: 87.5 RAW: 189
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dummfdsay
+Pos: QB Ovr: 95.25 RAW: 193
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dummddy
+Pos: QB Ovr: 97.5 RAW: 189
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dummfday
+Pos: QB Ovr: 97.5 RAW: 190
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :|||||||||||
+------------------------------
+
+Test Dusdmmy
+Pos: QB Ovr: 93.75 RAW: 189
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||||||||||||
+RunPower:||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+
+Test Dum
+Pos: QB Ovr: 97.5 RAW: 179
+------------------------------
+Passing :|||||||||||||||||||
+Speed   :||||||||||||||||||||
+Blocking:||||||||||
+Agility :||||||||||||||||||||
+Catching:||||||||||
+RunPower:||||||||||||||||||||
+Carrying:||||||||||||||||||||
+Tackling:||||||||||||||||||||
+Coverage:||||||||||||||||||||
+D-Moves :||||||||||||||||||||
+------------------------------
+

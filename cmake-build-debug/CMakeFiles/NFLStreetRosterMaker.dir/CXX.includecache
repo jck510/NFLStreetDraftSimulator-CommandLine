@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/knuds/CLionProjects/NFLStreetRosterMaker/Player.h
+iostream
+-
+string
+-
+
+C:/Users/knuds/CLionProjects/NFLStreetRosterMaker/Team.h
+iostream
+-
+string
+-
+fstream
+-
+Player.h
+C:/Users/knuds/CLionProjects/NFLStreetRosterMaker/Player.h
+
+C:/Users/knuds/CLionProjects/NFLStreetRosterMaker/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+Player.h
+C:/Users/knuds/CLionProjects/NFLStreetRosterMaker/Player.h
+Team.h
+C:/Users/knuds/CLionProjects/NFLStreetRosterMaker/Team.h
+
